@@ -1,0 +1,23 @@
+{
+  "name": "algo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "binaryCode.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VarunGuttikonda/algo-practise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VarunGuttikonda/algo-practise/issues"
+  },
+  "homepage": "https://github.com/VarunGuttikonda/algo-practise#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
